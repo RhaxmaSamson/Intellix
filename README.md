@@ -1,2 +1,2 @@
-#Intellix
+Intellix
 A conversational AI Assistant
