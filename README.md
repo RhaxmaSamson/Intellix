@@ -1,7 +1,7 @@
-**# Intellix**
+#Intellix
 A conversational AI Assistant
 
-**#Technology Stack**
+#Technology Stack
 Backend: Python Flask
 
 AI Model: DeepSeek R1 (via OpenRouter API)
@@ -12,7 +12,7 @@ Frontend: HTML, CSS, JavaScript (separate repository)
 
 Environment Management: python-dotenv
 
-**#Project structure**
+#Project structure
 nrg-phoenix-assistant/
 ├── app.py                # Main Flask application
 ├── requirements.txt      # Python dependencies
